@@ -7,3 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: curl https://workspace.astor-stroy.replit.app
+ 
